@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_app_background">#BEE3FF</color>
+    <color name="statusBarColor">#101010</color>
+    <color name="splashScreenBackground">#10151A</color>
+    <color name="colorPrimary">#032541</color>
+    <color name="colorPrimaryDark">#031D33</color>
+    <color name="colorAccent">#03DAC5</color>
+</resources>
