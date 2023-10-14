@@ -30,7 +30,7 @@ Jetpack Compose, Room, MVVM, Coil, Navigation Component,  Coroutines, Hilt , Uni
 * **Add your [News API][13] Key in `build.gradle` file to make news fetch work.**
 
 
-[13]: https://api.themoviedb.org/3/
+[13]: https://api.themoviedb.org/
 
 ## TODO Future enhancement app:
 - [ ] Do more detail layouts
