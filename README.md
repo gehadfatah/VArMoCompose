@@ -25,9 +25,9 @@ Jetpack Compose, Room, MVVM, Coil, Navigation Component,  Coroutines, Hilt , Uni
 
 -set account in themoviewdb api
 
--add your api key to build.gradle file
+-add your api key to gradle.properties file
 
-* **Add your [News API][13] Key in `build.gradle` file to make news fetch work.**
+* **Add your [Movies API][13] Key in `gradle.properties` file to make movies fetch work.**
 
 
 [13]: https://api.themoviedb.org/
